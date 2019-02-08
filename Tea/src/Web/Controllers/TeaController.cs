@@ -17,7 +17,7 @@ namespace Web.Controllers
 
         public IActionResult TajMahal()
         {
-            return Json(new { success = true, brand="TajMahal",type="JSON"});
+            return Json(new {brand="TajMahal",type="JSON"});
         }
         // public IActionResult TajMahal()
         // {
@@ -29,7 +29,7 @@ namespace Web.Controllers
 //         }
         public IActionResult RedRoses()
         {
-            return Content("RedRoses is the best taste.")
+            return Content("RedRoses is the best taste.");
         }
          public IActionResult Gemini()
         {
