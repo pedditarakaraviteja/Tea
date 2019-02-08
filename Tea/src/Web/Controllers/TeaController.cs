@@ -31,6 +31,10 @@ namespace Web.Controllers
         {
             return Content("RedRoses is the best taste.");
         }
+        public IActionResult BlackBrond()
+        {
+            return Content("<html><head><title>Black Brond</title></head><body>BLACK BROUND IS GOOd </body></html>","text/html");
+        }
          public IActionResult Gemini()
         {
             return View();

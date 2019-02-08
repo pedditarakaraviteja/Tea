@@ -32,3 +32,4 @@ C:\Users\S533904\Tea\Tea\src\Web\obj\Debug\netcoreapp2.2\Web.Views.pdb
 C:\Users\S533904\Tea\Tea\src\Web\obj\Debug\netcoreapp2.2\Web.dll
 C:\Users\S533904\Tea\Tea\src\Web\obj\Debug\netcoreapp2.2\Web.pdb
 C:\Users\S533904\Tea\Tea\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
+C:\Users\S533904\Tea\Tea\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Tea\BlackBrond.g.cshtml.cs
