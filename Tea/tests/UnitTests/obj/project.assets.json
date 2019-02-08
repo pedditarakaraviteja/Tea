@@ -5858,11 +5858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S533904\\44663\\Tea\\tests\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\S533904\\Tea\\Tea\\tests\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\S533904\\44663\\Tea\\tests\\UnitTests\\UnitTests.csproj",
+      "projectPath": "C:\\Users\\S533904\\Tea\\Tea\\tests\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\S533904\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S533904\\44663\\Tea\\tests\\UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\S533904\\Tea\\Tea\\tests\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
