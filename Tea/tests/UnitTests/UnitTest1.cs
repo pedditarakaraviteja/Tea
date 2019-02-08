@@ -21,7 +21,7 @@ namespace UnitTests
     public class CalculatorTests
     {
         [Fact]
-        public void CanAdd()
+        public void weAdd()
         {
             var calculator = new Calculator();
 
@@ -40,7 +40,7 @@ namespace UnitTests
         [InlineData(-4, -6, -10)]
         [InlineData(-2, 2, 0)]
      
-        public void CanAddTheory(int value1, int value2, int expected)
+        public void CanWeAdd(int value1, int value2, int expected)
         {
             var calculator = new Calculator();
 
